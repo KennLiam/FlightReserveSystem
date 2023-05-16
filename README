@@ -1,0 +1,3 @@
+Program allows user to generate a ticket ID then offers a representation of a plane seating map
+User can then enter row and colum to check if seat is open
+If not open then recommend open seat in same row
